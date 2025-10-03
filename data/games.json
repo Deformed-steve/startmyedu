@@ -1,0 +1,885 @@
+[
+  {
+    "id": "sonic3air",
+    "image": "appicon/sonicair.png",
+    "src": "apps/sonic3air/",
+    "name": "Sonic 3 A.I.R"
+  },
+  {
+    "id": "angrybird",
+    "image": "appicon/angrybird.png",
+    "src": "apps/angrybird/",
+    "name": "Angry Birds"
+  },
+  {
+    "id": "snoot",
+    "image": "appicon/snoot.jpg",
+    "src": "apps/snoot/",
+    "name": "Snoot Game"
+  },
+  {
+    "id": "moto3",
+    "image": "appicon/moto3.png",
+    "src": "apps/moto-x3m-3/",
+    "name": "Moto X3M 3"
+  },
+  {
+    "id": "moto2",
+    "image": "appicon/moto2.png",
+    "src": "apps/moto-x3m-2/",
+    "name": "Moto X3M 2"
+  },
+  {
+    "id": "moto",
+    "image": "appicon/moto.png",
+    "src": "apps/moto-x3m/",
+    "name": "Moto X3M"
+  },
+  {
+    "id": "hotline-miami",
+    "image": "appicon/miami.png",
+    "src": "apps/hotline-miami/",
+    "name": "Hotline Miami"
+  },
+  {
+    "id": "polytrack",
+    "image": "appicon/poly-track.png",
+    "src": "apps/polytrack/",
+    "name": "Polytrack"
+  },
+  {
+    "id": "tattletail",
+    "image": "appicon/tattletail.jpg",
+    "src": "apps/tattletail/",
+    "name": "Tattletail",
+    "offline": "offline/tattletail-port.html",
+    "cost": "0"
+  },
+  {
+    "id": "papa1",
+    "image": "appicon/papa/218.png",
+    "src": "apps/papas/Papa's%20Bakeria.html",
+    "name": "Papa's Bakeria"
+  },
+  {
+    "id": "papa2",
+    "image": "appicon/papa/219.png",
+    "src": "apps/papas/Papa's%20Burgeria.html",
+    "name": "Papa's Burgeria"
+  },
+  {
+    "id": "papa3",
+    "image": "appicon/papa/220.png",
+    "src": "apps/papas/Papa's%20Cheeseria.html",
+    "name": "Papa's Cheeseria"
+  },
+  {
+    "id": "papa4",
+    "image": "appicon/papa/221.png",
+    "src": "apps/papas/Papa's%20Cupcakeria.html",
+    "name": "Papa's Cupcakeria"
+  },
+  {
+    "id": "papa5",
+    "image": "appicon/papa/222.png",
+    "src": "apps/papas/Papa's%20Donuteria.html",
+    "name": "Papa's Donuteria"
+  },
+  {
+    "id": "papa6",
+    "image": "appicon/papa/223.png",
+    "src": "apps/papas/Papa's%20Freezeria.html",
+    "name": "Papa's Freezeria"
+  },
+  {
+    "id": "papa7",
+    "image": "appicon/papa/224.png",
+    "src": "apps/papas/Papa's%20Hot%20Doggeria.html",
+    "name": "Papa's Hot Doggeria"
+  },
+  {
+    "id": "papa8",
+    "image": "appicon/papa/225.png",
+    "src": "apps/papas/Papa's%20Pancakeria.html",
+    "name": "Papa's Pancakeria"
+  },
+  {
+    "id": "papa9",
+    "image": "appicon/papa/226.png",
+    "src": "apps/papas/Papa's%20Pastaria.html",
+    "name": "Papa's Pastaria"
+  },
+  {
+    "id": "papa10",
+    "image": "appicon/papa/227.png",
+    "src": "apps/papas/Papa's%20Pizeria.html",
+    "name": "Papa's Pizzeria"
+  },
+  {
+    "id": "papa11",
+    "image": "appicon/papa/228.png",
+    "src": "apps/papas/Papa's%20Scooperia.html",
+    "name": "Papa's Scooperia"
+  },
+  {
+    "id": "papa12",
+    "image": "appicon/papa/229.png",
+    "src": "apps/papas/Papa's%20Sushiria.html",
+    "name": "Papa's Sushiria"
+  },
+  {
+    "id": "papa13",
+    "image": "appicon/papa/230.png",
+    "src": "apps/papas/Papa's%20Taco%20Mia.html",
+    "name": "Papa's Taco Mia"
+  },
+  {
+    "id": "papa14",
+    "image": "appicon/papa/231.png",
+    "src": "apps/papas/Papa's%20Wingeria.html",
+    "name": "Papa's Wingeria"
+  },
+  {
+    "id": "sisterlocation",
+    "image": "appicon/sl.jpeg",
+    "src": "apps/sl/",
+    "name": "Sister Location"
+  },
+  {
+    "id": "basket-random",
+    "image": "appicon/basket-random.png",
+    "src": "apps/basket-random/",
+    "name": "Basket Random"
+  },
+  {
+    "id": "volley-random",
+    "image": "appicon/volley-random.png",
+    "src": "apps/volley-random/",
+    "name": "Volley Random"
+  },
+  {
+    "id": "boxing-random",
+    "image": "appicon/boxing-random.jpg",
+    "src": "apps/boxing-random/",
+    "name": "Boxing Random"
+  },
+  {
+    "id": "bloodmoney",
+    "image": "appicon/bloodmoney.png",
+    "src": "apps/bloodmoney/",
+    "name": "Blood Money"
+  },
+  {
+    "id": "buritobison",
+    "image": "appicon/burito.jpg",
+    "src": "apps/BurritoBison/",
+    "name": "Burrito Bison"
+  },
+  {
+    "id": "vex",
+    "image": "appicon/vex.png",
+    "src": "apps/vex/1/",
+    "name": "Vex 1"
+  },
+  {
+    "id": "vex2",
+    "image": "appicon/vex2.png",
+    "src": "apps/vex/2/",
+    "name": "Vex 2"
+  },
+  {
+    "id": "vex3",
+    "image": "appicon/vex3.png",
+    "src": "apps/vex/3/",
+    "name": "Vex 3"
+  },
+  {
+    "id": "vex3-c",
+    "image": "appicon/vex3-c.png",
+    "src": "apps/vex/3-xmas/",
+    "name": "Vex 3 Christmas"
+  },
+  {
+    "id": "vex4",
+    "image": "appicon/vex4.png",
+    "src": "apps/vex/4/",
+    "name": "Vex 4"
+  },
+  {
+    "id": "vex5",
+    "image": "appicon/vex5.png",
+    "src": "apps/vex/5/",
+    "name": "Vex 5"
+  },
+  {
+    "id": "vex6",
+    "image": "appicon/vex6.png",
+    "src": "apps/vex/6/",
+    "name": "Vex 6"
+  },
+  {
+    "id": "vex7",
+    "image": "appicon/vex7.png",
+    "src": "apps/vex/7/",
+    "name": "Vex 7"
+  },
+  {
+    "id": "vex8",
+    "image": "appicon/vex8.png",
+    "src": "apps/vex/8/",
+    "name": "Vex 8"
+  },
+  {
+    "id": "vexchallenges",
+    "image": "appicon/vex-chal.png",
+    "src": "apps/vex/challenges/",
+    "name": "Vex Challenges"
+  },
+  {
+    "id": "vexx3m",
+    "image": "appicon/vex-x.png",
+    "src": "apps/vex/x3m/",
+    "name": "Vex x3m"
+  },
+  {
+    "id": "vexx3m2",
+    "image": "appicon/vex-x2.png",
+    "src": "apps/vex/x3m-2/",
+    "name": "Vex x3m 2"
+  },
+  {
+    "id": "bindingofisaac",
+    "image": "appicon/bindingofisaac.jpg",
+    "src": "apps/BOIWOTL/",
+    "name": "The Binding of Isaac: Wrath of the Lamb"
+  },
+  {
+    "id": "deadplate",
+    "image": "appicon/deadplate.png",
+    "src": "apps/deadplatefixed1/",
+    "name": "Dead Plate"
+  },
+  {
+    "id": "retrobowlcollege",
+    "image": "appicon/retro-bowl-c.png",
+    "src": "apps/retro-bowl-college/",
+    "name": "Retro Bowl College"
+  },
+  {
+    "id": "pokemon-white",
+    "image": "appicon/pokemon-white.jpg",
+    "src": "apps/ace_attorney/white.html",
+    "name": "Pokemon White"
+  },
+  {
+    "id": "pokemon-black",
+    "image": "appicon/pokemon-black.jpg",
+    "src": "apps/ace_attorney/black.html",
+    "name": "Pokemon Black"
+  },
+  {
+    "id": "pacman",
+    "image": "appicon/pacman.png",
+    "src": "apps/pacman/",
+    "name": "Pac-Man"
+  },
+  {
+    "id": "10minutestilldawn",
+    "image": "appicon/10minutestilldawn.png",
+    "src": "apps/10minutestilldawn/",
+    "name": "10 Minutes Till Dawn"
+  },
+  {
+    "id": "Endoparasitic",
+    "image": "appicon/Endoparasitic.png",
+    "src": "apps/endoparasitic/",
+    "name": "Endoparasitic"
+  },
+  {
+    "id": "aceattorney",
+    "image": "appicon/ace_attorney.png",
+    "src": "apps/ace_attorney/",
+    "name": "Ace Attorney"
+  },
+  {
+    "id": "omori",
+    "image": "appicon/omori.png",
+    "src": "apps/omoriport/",
+    "name": "OMORI"
+  },
+  {
+    "id": "slender",
+    "image": "appicon/slender.png",
+    "src": "apps/slender/",
+    "name": "Slender The Eight Pages"
+  },
+  {
+    "id": "undertaleyellow",
+    "image": "appicon/undertale_y.png",
+    "src": "apps/undertale-yellow/",
+    "name": "Undertale Yellow"
+  },
+  {
+    "id": "undertale",
+    "image": "appicon/undertale.png",
+    "src": "apps/undertale/play.html",
+    "name": "Undertale"
+  },
+  {
+    "id": "deltarune",
+    "image": "appicon/deltarune.png",
+    "src": "apps/deltarune/play/play.html",
+    "name": "Deltarune",
+    "ignorethis": "hi so um, if you are readuing this, hello and i dont wanna be DCMA'd so pls dont dmca me thx. also shortpie made this."
+  },
+  {
+    "id": "webfishing",
+    "image": "appicon/webfishing.jpg",
+    "src": "apps/webfishing",
+    "name": "Webfishing"
+  },
+  {
+    "id": "oregon",
+    "image": "appicon/oregon.jpg",
+    "src": "apps/oregon",
+    "name": "The Oregon Trail"
+  },
+  {
+    "id": "buckshot",
+    "image": "appicon/buckshot.jpg",
+    "src": "apps/buckshot-roulette",
+    "name": "Buckshot Roulette"
+  },
+  {
+    "id": "pizzatower",
+    "image": "appicon/pizza.png",
+    "src": "apps/pizza-tower/",
+    "name": "Pizza Tower"
+  },
+  {
+    "id": "repo",
+    "image": "appicon/repo.png",
+    "src": "apps/repo/",
+    "name": "R.E.P.O"
+  },
+  {
+    "id": "class09",
+    "image": "appicon/class09.png",
+    "src": "apps/class-of-09/",
+    "name": "Class of 09"
+  },
+  {
+    "id": "donottakethiscathome",
+    "image": "appicon/notcat.png",
+    "src": "apps/donottakethiscathome/",
+    "name": "Do NOT Take This Cat Home"
+  },
+  {
+    "id": "bendy",
+    "image": "appicon/bendy.png",
+    "src": "apps/bendy/",
+    "name": "Bendy and the ink iachine (1/2)"
+  },
+  {
+    "id": "bad-parenting",
+    "image": "appicon/bad-parenting.png",
+    "src": "apps/bad-parenting/",
+    "name": "Bad Parenting"
+  },
+  {
+    "id": "ultrakill",
+    "image": "appicon/ultrakill.png",
+    "src": "apps/ultrakill/",
+    "name": "Ultrakill"
+  },
+  {
+    "id": "peopleplayground",
+    "image": "appicon/peopleplayground.png",
+    "src": "apps/people-playground/",
+    "name": "People Playground"
+  },
+  {
+    "id": "crazycattle",
+    "image": "appicon/Crazy-Cattle-3D.jpg",
+    "src": "apps/crazycattle/",
+    "name": "Crazy Cattle 3D"
+  },
+  {
+    "id": "tanuki",
+    "image": "appicon/tanuki.png",
+    "src": "apps/tanuki/",
+    "name": "Tanuki Sunset"
+  },
+  {
+    "id": "retrobowl",
+    "image": "appicon/retro-bowl.jpg",
+    "src": "apps/retrobowl/",
+    "name": "Retro Bowl"
+  },
+  {
+    "id": "2048",
+    "image": "appicon/2048.png",
+    "src": "apps/2048/",
+    "name": "2048"
+  },
+  {
+    "id": "blockblast",
+    "image": "appicon/blockblast.jpg",
+    "src": "apps/blockblast/",
+    "name": "Block Blast!"
+  },
+  {
+    "id": "granny2",
+    "image": "appicon/granny2.webp",
+    "src": "apps/granny2/",
+    "name": "Granny 2"
+  },
+  {
+    "id": "granny",
+    "image": "appicon/granny.jpg",
+    "src": "apps/granny/",
+    "name": "Granny"
+  },
+  {
+    "id": "60sbr",
+    "image": "appicon/60sbr.png",
+    "src": "apps/60sbr/",
+    "name": "60 Second Burger Run"
+  },
+  {
+    "id": "nzp",
+    "image": "appicon/nzp.png",
+    "src": "apps/nzp/",
+    "name": "Nice.. Zombies: Portable"
+  },
+  {
+    "id": "retroarch",
+    "image": "appicon/retroarch.png",
+    "src": "apps/retroarch/",
+    "name": "RetroArch"
+  },
+  {
+    "id": "astra_client",
+    "image": "appicon/astra.png",
+    "src": "apps/astra/boot.html",
+    "name": "Astra Client (Minecraft 1.8.8)"
+  },
+  {
+    "id": "resent_client",
+    "image": "appicon/Resent.png",
+    "src": "apps/resent/index.html",
+    "cost": "0",
+    "name": "Resent Client (Minecraft 1.8.8)"
+  },
+  {
+    "id": "mariobros2",
+    "image": "appicon/mario2.png",
+    "src": "https://static.arcadespot.com/retroemulator.php?system=nes&game=2017/11/super-mario-bros-2.nes",
+    "name": "Super Mario Bros 2"
+  },
+  {
+    "id": "fly3",
+    "image": "appicon/learntofly3-min.png",
+    "src": "apps/fly/3",
+    "name": "Learn To Fly 3"
+  },
+  {
+    "id": "fly2",
+    "image": "appicon/learntofly2.png",
+    "src": "apps/fly/2",
+    "name": "Learn To Fly 2"
+  },
+  {
+    "id": "fly",
+    "image": "appicon/learntofly1.jpg",
+    "src": "apps/fly/1",
+    "name": "Learn To Fly 1"
+  },
+  {
+    "id": "DDLC",
+    "image": "appicon/DDLC.png",
+    "src": "apps/DDLC",
+    "name": "Doki Doki Literature Club"
+  },
+  {
+    "id": "cookieclicker",
+    "image": "appicon/cookieclicker.png",
+    "src": "apps/cookieclicker",
+    "name": "Cookie Clicker"
+  },
+  {
+    "id": "crow64",
+    "image": "appicon/crow.png",
+    "src": "apps/crow"
+  },
+  {
+    "id": "mario64",
+    "image": "appicon/mario54.webp",
+    "src": "apps/mario64",
+    "offline": "offline/mario64.html",
+    "cost": "10",
+    "name": "Super Mario 64"
+  },
+  {
+    "id": "wanas",
+    "image": "appicon/click-the-wawas.png",
+    "src": "apps/click-the-wawas/click-the-wawas.html",
+    "name": "Click the Wawas",
+    "offline": "apps/click-the-wawas/click-the-wawas.html",
+    "cost": "10"
+  },
+  {
+    "id": "fnf",
+    "image": "appicon/fnf.webp",
+    "src": "apps/fnf",
+    "name": "Friday Night Funkin"
+  },
+  {
+    "id": "backrooms",
+    "image": "appicon/1i6rgK.jpg",
+    "src": "apps/backrooms",
+    "name": "The Backrooms"
+  },
+  {
+    "id": "tetris",
+    "image": "appicon/tetris.png",
+    "src": "apps/tetris",
+    "name": "Tetris"
+  },
+  {
+    "id": "deadshot",
+    "image": "appicon/deadshot.jpg",
+    "src": "https://deadshot.io/",
+    "name": "Deadshot"
+  },
+  {
+    "id": "gojo",
+    "image": "appicon/backshots.jpeg",
+    "src": "apps/backshots",
+    "name": "Back Shot Simulator"
+  },
+  {
+    "id": "hockey",
+    "image": "appicon/hockey.jpeg",
+    "src": "https://html-classic.itch.zone/html/8048196/HTML5/index.html",
+    "name": "Hockey"
+  },
+  {
+    "id": "hardware",
+    "image": "appicon/hardware.png",
+    "src": "https://html-classic.itch.zone/html/5114557/index.html",
+    "name": "Hardware Simulator"
+  },
+  {
+    "id": "eggdog",
+    "image": "appicon/eggdog.png",
+    "src": "apps/eggdog",
+    "name": "Egg Dog"
+  },
+  {
+    "id": "1v1new",
+    "image": "appicon/1v1new.png",
+    "src": "https://1v1.lol/",
+    "name": "1v1.LOL"
+  },
+  {
+    "id": "1v1",
+    "image": "appicon/1v1.jpg",
+    "src": "https://purepro4561.github.io/1v1-Lol/",
+    "name": "1v1.LOL (other)"
+  },
+  {
+    "id": "smashkarts",
+    "image": "appicon/kartz.png",
+    "src": "https://smashkarts.io/",
+    "name": "Smash Karts"
+  },
+  {
+    "id": "rhythmhell",
+    "image": "appicon/hell.png",
+    "src": "apps/rhythm-hell",
+    "name": "Rhythm Hell"
+  },
+  {
+    "id": "clubpenguin",
+    "image": "appicon/clubbin.png",
+    "src": "https://play.cplegacy.com/",
+    "name": "Club Penguin"
+  },
+  {
+    "id": "smw2",
+    "image": "appicon/smw2.png",
+    "src": "https://static.arcadespot.com/retroemulator.php?system=snes&game=2016/08/super-mario-world-2.smc",
+    "name": "Super Mario World 2"
+  },
+  {
+    "id": "n64emu",
+    "image": "appicon/n64.png",
+    "src": "apps/n64emu",
+    "name": "N64 Emulator"
+  },
+  {
+    "id": "mariokart",
+    "image": "appicon/mariokart.webp",
+    "src": "apps/pred/launcher.html#mariokart",
+    "name": "Mario Kart"
+  },
+  {
+    "id": "sma4",
+    "image": "appicon/sma4.webp",
+    "src": "apps/pred/launcher.html#supermarioadvance4",
+    "name": "Super Mario Advance 4"
+  },
+  {
+    "id": "pred",
+    "image": "appicon/pred.webp",
+    "src": "apps/pred/launcher.html#pokemonred",
+    "name": "Pokemon Red"
+  },
+  {
+    "id": "peme",
+    "image": "appicon/peme.webp",
+    "src": "apps/pred/launcher.html#pokemonemerald",
+    "name": "Pokemon Emerald"
+  },
+  {
+    "id": "psaf",
+    "image": "appicon/psaf.webp",
+    "src": "apps/pred/launcher.html#pokemonsapphire",
+    "name": "Pokemon Sapphire"
+  },
+  {
+    "id": "pgreen",
+    "image": "appicon/pgreen.webp",
+    "src": "apps/pred/launcher.html#pokemongreen",
+    "name": "Pokemon Green"
+  },
+  {
+    "id": "pruby",
+    "image": "appicon/pruby.webp",
+    "src": "apps/pred/launcher.html#pokemonruby",
+    "name": "Pokemon Ruby"
+  },
+  {
+    "id": "scratch",
+    "image": "appicon/scratch.webp",
+    "src": "apps/scratch",
+    "name": "Scratch Getting Over It"
+  },
+  {
+    "id": "srb2",
+    "image": "appicon/sonc.webp",
+    "src": "apps/srb2web",
+    "name": "Sonic Robo Blast 2"
+  },
+  {
+    "id": "slope",
+    "image": "appicon/slope.webp",
+    "src": "apps/SlopeHD",
+    "name": "Slope"
+  },
+  {
+    "id": "marlu",
+    "image": "appicon/marioz.webp",
+    "src": "apps/pred/launcher.html#superstar",
+    "name": "Super Mario Superstar Saga"
+  },
+  {
+    "id": "drift",
+    "image": "appicon/drift.webp",
+    "src": "apps/drift",
+    "name": "Drift Hunters"
+  },
+  {
+    "id": "slimerancher",
+    "image": "appicon/slimerancher.webp",
+    "src": "apps/slimerancher",
+    "offline": "offline/Slimerancher_OFFLINEBUILD.html",
+    "cost": "25",
+    "name": "Slime Rancher"
+  },
+  {
+    "id": "tunnel",
+    "image": "appicon/tunnel.webp",
+    "src": "apps/tunnel",
+    "name": "Tunnel Rush"
+  },
+  {
+    "id": "fnafb",
+    "image": "appicon/fnafb.webp",
+    "src": "apps/fnafb/index.html?never_redirect=true",
+    "name": "Five Nights At F### Boys"
+  },
+  {
+    "id": "cat",
+    "image": "appicon/catmario.webp",
+    "src": "apps/cat",
+    "name": "Cat Mario"
+  },
+  {
+    "id": "surfers",
+    "image": "appicon/surfers.webp",
+    "src": "apps/surfers",
+    "name": "Subway Surfers"
+  },
+  {
+    "id": "stickman",
+    "image": "appicon/stickman.webp",
+    "src": "apps/stickman",
+    "name": "Henry Stickman"
+  },
+  {
+    "id": "baldi",
+    "image": "appicon/baldi.webp",
+    "src": "apps/baldi",
+    "name": "Baldi's Basics"
+  },
+  {
+    "id": "osum",
+    "image": "appicon/osum.webp",
+    "src": "https://rodrig0v.github.io/webmania/",
+    "name": "osu!mania"
+  },
+  {
+    "id": "candys1",
+    "image": "appicon/candys1.webp",
+    "src": "apps/candys1",
+    "name": "Five Nights At Candy's"
+  },
+  {
+    "id": "candys2",
+    "image": "appicon/candys2.webp",
+    "src": "apps/candys2",
+    "name": "Five Nights At Candy's 2"
+  },
+  {
+    "id": "kirb",
+    "image": "appicon/kirb.webp",
+    "src": "https://static.arcadespot.com/retroemulator.php?system=snes&game=2016/05/kirby-super-star.smc",
+    "name": "Kirby Super Star"
+  },
+  {
+    "id": "smw",
+    "image": "appicon/smw.webp",
+    "src": "https://static.arcadespot.com/retroemulator.php?system=snes&game=2015/11/super-mario-world.smc",
+    "name": "Super Mario World"
+  },
+  {
+    "id": "mc1",
+    "image": "appicon/minecrafticon.webp",
+    "src": "apps/minecraft/1.5.2",
+    "offline": "offline/minecraft/Eaglercraft_1.5_Offline_Download.html",
+    "cost": "10",
+    "name": "Eaglercraft (Minecraft 1.5.2)"
+  },
+  {
+    "id": "mc2",
+    "image": "appicon/minecrafticon.webp",
+    "src": "apps/minecraft/1.12",
+    "offline": "offline/minecraft/Eaglercraft_1.12_Offline_en_US.html",
+    "cost": "10",
+    "name": "Eaglercraft (Minecraft 1.12)"
+  },
+  {
+    "id": "sonic1",
+    "image": "appicon/sonic1.webp",
+    "src": "apps/sonic1",
+    "name": "Sonic The Hedgehog"
+  },
+  {
+    "id": "sonic2",
+    "image": "appicon/sonic2.webp",
+    "src": "https://static.arcadespot.com/retroemulator.php?system=sega&game=2016/08/sonic-the-hedgehog-2.gen",
+    "name": "Sonic The Hedgehog 2"
+  },
+  {
+    "id": "sonic3",
+    "image": "appicon/sonic3.webp",
+    "src": "apps/sonic3",
+    "name": "Sonic The Hedgehog 3"
+  },
+  {
+    "id": "soniccd",
+    "image": "appicon/soniccd.webp",
+    "src": "https://static.arcadespot.com/retroemulator.php?system=sega&game=2017/06/sonic-cd-edition.gen",
+    "name": "Sonic CD"
+  },
+  {
+    "id": "sonic3d",
+    "image": "appicon/sonic3d.webp",
+    "src": "https://static.arcadespot.com/retroemulator.php?system=sega&game=2016/08/sonic-3d-blast.gen",
+    "name": "Sonic 3D Blast"
+  },
+  {
+    "id": "emulator",
+    "image": "appicon/emulator.webp",
+    "src": "apps/dsandgba",
+    "name": "Emulator"
+  },
+  {
+    "id": "crossy",
+    "image": "appicon/crossy.webp",
+    "src": "apps/crossyroad/index.html?world=original",
+    "name": "Crossy Road"
+  },
+  {
+    "id": "fnafw",
+    "image": "appicon/fnafw.webp",
+    "src": "apps/fnafw",
+    "name": "FNAF World"
+  },
+  {
+    "id": "fnaf",
+    "image": "appicon/fnaf1.webp",
+    "src": "apps/fnaf1",
+    "name": "Five Nights At Freddy's"
+  },
+  {
+    "id": "fnaf2",
+    "image": "appicon/fnaf2.webp",
+    "src": "apps/fnaf2",
+    "name": "Five Nights At Freddy's 2"
+  },
+  {
+    "id": "fnaf3",
+    "image": "appicon/fnaf3.webp",
+    "src": "apps/fnaf3",
+    "name": "Five Nights At Freddy's 3"
+  },
+  {
+    "id": "fnaf4",
+    "image": "appicon/fnaf4.webp",
+    "src": "apps/fnaf4",
+    "name": "Five Nights At Freddy's 4"
+  },
+  {
+    "id": "fnaf4h",
+    "image": "appicon/fnaf4h.webp",
+    "src": "apps/fnaf4h",
+    "name": "Five Nights At Freddy's 4 Halloween Edition"
+  },
+  {
+    "id": "ucn",
+    "image": "appicon/ucn.webp",
+    "src": "apps/ucn",
+    "name": "Ultimate Custom Night"
+  },
+  {
+    "id": "taco",
+    "image": "appicon/taco.webp",
+    "src": "apps/tacospin",
+    "name": "Taco Spin"
+  },
+  {
+    "id": "crash2",
+    "image": "appicon/crash2.webp",
+    "src": "https://static.arcadespot.com/retroemulator.php?system=ps1&game=2017/10/crashbandicoot2.pbp",
+    "name": "Crash Bandicoot 2"
+  },
+  {
+    "id": "krunker",
+    "image": "appicon/krunker.webp",
+    "src": "https://krunker.io",
+    "name": "Krunker"
+  }
+]
