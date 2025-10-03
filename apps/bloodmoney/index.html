@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="user-scalable=no">
+  <link rel="stylesheet" type="text/css" href="css/loading.css">
+  <title>BLOODMONEY!</title>
+</head>
+<style>
+  body,
+  html {
+    overflow: hidden;
+  }
+</style>
+
+<body style="background-color: black">
+  <!-- Loading Screen -->
+  <div id="loadingScreen" class="loading-screen">
+    <div class="loading-progress">
+      <div id="loadingProgressBar" class="loading-progress-bar"></div>
+    </div>
+  </div>
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"d81a02470a2942aa85f80037a05ddeec","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+
+<script type="text/javascript" src="js/libs/pixi.js"></script>
+<script type="text/javascript" src="js/libs/pixi-tilemap.js"></script>
+<script type="text/javascript" src="js/libs/pixi-picture.js"></script>
+<script type="text/javascript" src="js/libs/fpsmeter.js"></script>
+<script type="text/javascript" src="js/libs/lz-string.js"></script>
+<script type="text/javascript" src="js/libs/iphone-inline-video.browser.js"></script>
+<script type="text/javascript" src="js/rpg_core.js"></script>
+<script type="text/javascript" src="js/rpg_managers.js"></script>
+<script type="text/javascript" src="js/rpg_objects.js"></script>
+<script type="text/javascript" src="js/rpg_scenes.js"></script>
+<script type="text/javascript" src="js/rpg_sprites.js"></script>
+<script type="text/javascript" src="js/rpg_windows.js"></script>
+<script type="text/javascript" src="js/plugins.js"></script>
+<script type="text/javascript" src="js/loading.js"></script>
+<script type="text/javascript">
+  PluginManager.setup($plugins);
+
+  window.onload = function() {
+    SceneManager.run(Scene_Boot);
+  };
+</script>
